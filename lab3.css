@@ -1,0 +1,20 @@
+#keypressed {
+color: blue;
+}
+
+
+#my_canvas {
+
+border: solid black 2px;
+}
+
+#x {
+color: blue;
+font-weight: bold;
+}
+
+
+#y {
+color: purple;
+font-weight: bold;
+}
