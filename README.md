@@ -9,5 +9,6 @@ De sterke sidene til Canvas, er at den takler bedre krevende grafiske muligheter
 
 2:
 HTML5 Canvas representerer  Bitmap. Man kan da få hver enktelt pixel til å få sin egen farge.
+
 X:
 Det tok meg ca. 6 og en halv time over 4dager.
